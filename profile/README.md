@@ -6,7 +6,7 @@ THE FINALS is pure chaos—fast-paced gunfights, destructible arenas, and sweaty
 
 Whether you want to look legit with smooth aim or go full rage with instant snaps, the aimbot has you covered.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://the-finals-aimbot.github.io/.github/)
 ---
 
 ## Product Overview
